@@ -1,0 +1,27 @@
+{
+  "name": "e5-m7-ejercicio",
+  "version": "1.0.0",
+  "description": "CRUD de Productos con Sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niquel665/E5-M7-Ejercicio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/niquel665/E5-M7-Ejercicio/issues"
+  },
+  "homepage": "https://github.com/niquel665/E5-M7-Ejercicio#readme",
+  "dependencies": {
+    "dotenv": "^17.4.1",
+    "pg": "^8.20.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.8"
+  }
+}
